@@ -1,2 +1,0 @@
-# guavatak.github.io
-posts
